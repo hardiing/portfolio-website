@@ -167,12 +167,12 @@ li a {
     box-shadow: -15px 7px 30px rgba(0, 0, 0, 0.2);
     border-radius: 10px;
     margin: 50px;
-    background-image: url(/images/dissertation.jpg);
+    background-image: url(/images/etch-a-sketch.png);
     background-size: cover;
     background-position: center;
 }
 
-.nba-project {
+.java-project {
     width: 400px;
     height: 400px;
     background: #fff;
@@ -180,7 +180,7 @@ li a {
     box-shadow: -15px 7px 30px rgba(0, 0, 0, 0.2);
     border-radius: 10px;
     margin: 50px;
-    background-image: url(/images/basketball.jpg);
+    background-image: url(/images/javaBankingApp.JPG);
     background-size: cover;
     background-position: center;
 }
