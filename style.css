@@ -146,7 +146,7 @@ li a {
     flex-flow: wrap;
 }
 
-.student-project {
+.library-app {
     width: 400px;
     height: 400px;
     background: #fff;
@@ -154,7 +154,7 @@ li a {
     box-shadow: -15px 7px 30px rgba(0, 0, 0, 0.2);
     border-radius: 10px;
     margin: 50px;
-    background-image: url(/images/student.jpg);
+    background-image: url(/images/library.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -167,7 +167,7 @@ li a {
     box-shadow: -15px 7px 30px rgba(0, 0, 0, 0.2);
     border-radius: 10px;
     margin: 50px;
-    background-image: url(/images/etch-a-sketch.png);
+    background-image: url(/images/js.jpg);
     background-size: cover;
     background-position: center;
 }
