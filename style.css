@@ -146,7 +146,7 @@ li a {
     flex-flow: wrap;
 }
 
-.library-app {
+.case-study {
     width: 400px;
     height: 400px;
     background: #fff;
@@ -159,7 +159,7 @@ li a {
     background-position: center;
 }
 
-.tic-tac-toe {
+.nba-standings {
     width: 400px;
     height: 400px;
     background: #fff;
@@ -168,19 +168,6 @@ li a {
     border-radius: 10px;
     margin: 50px;
     background-image: url(/images/js.jpg);
-    background-size: cover;
-    background-position: center;
-}
-
-.java-project {
-    width: 400px;
-    height: 400px;
-    background: #fff;
-    position: relative;
-    box-shadow: -15px 7px 30px rgba(0, 0, 0, 0.2);
-    border-radius: 10px;
-    margin: 50px;
-    background-image: url(/images/javaBankingApp.JPG);
     background-size: cover;
     background-position: center;
 }
